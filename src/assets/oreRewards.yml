@@ -1,0 +1,105 @@
+starBonus:
+  - shiny: 125
+    glowy: 6
+  - shiny: 175
+    glowy: 7
+  - shiny: 175
+    glowy: 8
+  - shiny: 200
+    glowy: 9
+  - shiny: 250
+    glowy: 10
+  - shiny: 275
+    glowy: 11
+  - shiny: 300
+    glowy: 12
+  - shiny: 325
+    glowy: 14
+  - shiny: 350
+    glowy: 16
+  - shiny: 375
+    glowy: 18
+  - shiny: 400
+    glowy: 20
+  - shiny: 425
+    glowy: 22
+  - shiny: 450
+    glowy: 24
+  - shiny: 500
+    glowy: 26
+  - shiny: 525
+    glowy: 28
+  - shiny: 550
+    glowy: 30
+  - shiny: 625
+    glowy: 34
+  - shiny: 700
+    glowy: 38
+  - shiny: 775
+    glowy: 42
+  - shiny: 850
+    glowy: 46
+  - shiny: 925
+    glowy: 50
+  - shiny: 1000
+    glowy: 54
+
+# 从 8 本开始才有奖励
+CWWin:
+  - shiny: 380
+    glowy: 15
+    starry: 0
+  - shiny: 410
+    glowy: 18
+    starry: 0
+  - shiny: 460
+    glowy: 21
+    starry: 3
+  - shiny: 560
+    glowy: 24
+    starry: 3
+  - shiny: 610
+    glowy: 27
+    starry: 4
+  - shiny: 710
+    glowy: 30
+    starry: 4
+  - shiny: 810
+    glowy: 33
+    starry: 5
+  - shiny: 960
+    glowy: 36
+    starry: 5
+  - shiny: 1110
+    glowy: 39
+    starry: 6
+
+# 从 8 本开始才有奖励
+CWLose:
+  - shiny: 163
+    glowy: 6
+    starry: 0
+  - shiny: 175
+    glowy: 7
+    starry: 0
+  - shiny: 197
+    glowy: 9
+    starry: 1
+  - shiny: 240
+    glowy: 10
+    starry: 1
+  - shiny: 261
+    glowy: 11
+    starry: 1
+  - shiny: 304
+    glowy: 12
+    starry: 1
+  - shiny: 347
+    glowy: 14
+    starry: 2
+  - shiny: 411
+    glowy: 15
+    starry: 2
+  - shiny: 476
+    glowy: 16
+    starry: 3

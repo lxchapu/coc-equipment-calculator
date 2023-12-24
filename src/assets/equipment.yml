@@ -1,0 +1,101 @@
+list:
+  - name: 野蛮人木偶
+    rarity: 0
+    image: /images/equipment/Barbarian_Puppet.webp
+  - name: 狂暴药水瓶
+    rarity: 0
+    image: /images/equipment/Rage_Vial.webp
+  - name: 地震金靴
+    rarity: 0
+    image: /images/equipment/Earthquake_Boots.webp
+  - name: 治疗胡须
+    rarity: 0
+    image: /images/equipment/Vampstache.webp
+  - name: 巨型手套
+    rarity: 1
+    image: /images/equipment/Giant_Gauntlet.webp
+  - name: 弓箭手木偶
+    rarity: 0
+    image: /images/equipment/Archer_Puppet.webp
+  - name: 隐形药水瓶
+    rarity: 0
+    image: /images/equipment/Invisibility_Vial.webp
+  - name: 巨型箭矢
+    rarity: 0
+    image: /images/equipment/Giant_Arrow.webp
+  - name: 天使木偶
+    rarity: 0
+    image: /images/equipment/Healer_Puppet.webp
+  - name: 永恒卷轴
+    rarity: 0
+    image: /images/equipment/Eternal_Tome.webp
+  - name: 生命宝石
+    rarity: 0
+    image: /images/equipment/Life_Gem.webp
+  - name: 治疗卷轴
+    rarity: 0
+    image: /images/equipment/Healing_Tome.webp
+  - name: 狂暴宝石
+    rarity: 0
+    image: /images/equipment/Rage_Gem.webp
+  - name: 皇家宝石
+    rarity: 0
+    image: /images/equipment/Royal_Gem.webp
+  - name: 追踪神盾
+    rarity: 0
+    image: /images/equipment/Seeking_Shield.webp
+
+config:
+  - rarity: 普通
+    color: '#5798d3'
+    maxLevel: 18
+    upgradeCost:
+      - [0, 0, 0]
+      - [120, 0, 0]
+      - [240, 20, 0]
+      - [400, 0, 0]
+      - [600, 0, 0]
+      - [840, 100, 0]
+      - [1120, 0, 0]
+      - [1440, 0, 0]
+      - [1800, 200, 0]
+      - [1900, 0, 0]
+      - [2000, 0, 0]
+      - [2100, 400, 0]
+      - [2200, 0, 0]
+      - [2300, 0, 0]
+      - [2400, 600, 0]
+      - [2500, 0, 0]
+      - [2600, 0, 0]
+      - [2700, 600, 0]
+  - rarity: 稀有
+    color: '#9b44d8'
+    maxLevel: 27
+    upgradeCost:
+      - [0, 0, 0]
+      - [120, 0, 0]
+      - [240, 20, 0]
+      - [400, 0, 0]
+      - [600, 0, 0]
+      - [840, 100, 0]
+      - [1120, 0, 0]
+      - [1440, 0, 0]
+      - [1800, 200, 10]
+      - [1900, 0, 0]
+      - [2000, 0, 0]
+      - [2100, 400, 20]
+      - [2200, 0, 0]
+      - [2300, 0, 0]
+      - [2400, 600, 30]
+      - [2500, 0, 0]
+      - [2600, 0, 0]
+      - [2700, 600, 50]
+      - [2800, 0, 0]
+      - [2900, 0, 0]
+      - [3000, 600, 100]
+      - [3100, 0, 0]
+      - [3200, 0, 0]
+      - [3300, 600, 120]
+      - [3400, 0, 0]
+      - [3500, 0, 0]
+      - [3600, 600, 150]
