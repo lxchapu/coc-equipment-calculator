@@ -1,18 +1,39 @@
-# Vue 3 + TypeScript + Vite
+# COC Equipment Calculator
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+部落冲突英雄装备计算器是一个工具，帮你计算装备升到满级需要花费多长时间和多少资源。
 
-## Recommended IDE Setup
+[在线演示](https://coc.lxchapu.com)
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+![Live Demo](https://s2.loli.net/2023/12/25/TndrcQC2vxwFzH4.webp)
 
-## Type Support For `.vue` Imports in TS
+## 如何使用
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin) to make the TypeScript language service aware of `.vue` types.
+1. 填写你的杯段和部落战基本信息
 
-If the standalone TypeScript plugin doesn't feel fast enough to you, Volar has also implemented a [Take Over Mode](https://github.com/johnsoncodehk/volar/discussions/471#discussioncomment-1361669) that is more performant. You can enable it by the following steps:
+2. 选择需要升级的装备，填写当前等级
 
-1. Disable the built-in TypeScript Extension
-   1. Run `Extensions: Show Built-in Extensions` from VSCode's command palette
-   2. Find `TypeScript and JavaScript Language Features`, right click and select `Disable (Workspace)`
-2. Reload the VSCode window by running `Developer: Reload Window` from the command palette.
+3. 点击计算按钮
+
+🎉 Enjoy!
+
+![Result Demo](https://s2.loli.net/2023/12/25/BITwODSYJ1GkMxW.webp)
+
+## 如何运行
+
+1. 克隆仓库到本地
+
+2. 安装项目依赖，确保 node 版本不小于 18
+
+   ```sh
+   npm install
+   ```
+
+3. 启动服务器
+
+   ```sh
+   npm run dev
+   ```
+
+## License
+
+MIT © 柃夏chapu
