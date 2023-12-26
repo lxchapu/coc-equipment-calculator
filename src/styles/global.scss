@@ -19,3 +19,7 @@ a {
 a:hover {
   color: #ef4444;
 }
+// 防止双击缩放
+.el-input-number {
+  touch-action: manipulation;
+}
